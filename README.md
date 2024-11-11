@@ -2,11 +2,11 @@ Hi, I’m Ez Arhin. I hope you enjoy my journey to become the best Data Scientis
 
 Here's a little about me:
 
-I'm 22 years old, I'm from the UK and I have many years of experience in Python. 
+I'm 24 years old, I'm from the UK and I have many years of experience in Python, AWS and Terraform. 
 
-I am a Data Science Degree Apprentice currently working within the banking industry, while working towards my undergraduate degree in Data Science. 
+I am a Machine Learning Ops Engineer currently working within the banking industry. 
 
-As of now, I have been working here for 3 years, and have about 2 more left before my degree ends. 
+As of now, I have been working here for 5 years. 
 
 I'm interested in taking part in Hackathons and meeting like-minded people, so if you have any links then send them my way. 
 
